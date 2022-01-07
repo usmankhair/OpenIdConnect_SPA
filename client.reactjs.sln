@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "client.reactjs", "client.reactjs\client.reactjs.csproj", "{85905BCD-B392-4637-85E8-CF92D6C1AE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85905BCD-B392-4637-85E8-CF92D6C1AE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85905BCD-B392-4637-85E8-CF92D6C1AE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85905BCD-B392-4637-85E8-CF92D6C1AE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85905BCD-B392-4637-85E8-CF92D6C1AE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E158775-08A9-4806-964B-9463214187DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E158775-08A9-4806-964B-9463214187DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E158775-08A9-4806-964B-9463214187DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E158775-08A9-4806-964B-9463214187DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D343FE-B8E0-4E7E-9707-4B7DADF50E42}
+	EndGlobalSection
+EndGlobal
